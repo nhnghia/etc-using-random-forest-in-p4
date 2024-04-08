@@ -1,4 +1,4 @@
-# Encrypted Traffic Classification at Line Rate in Programmable Switches with Machine Learning
+# Encrypted Traffic Classification at Line Rate in Programmable Switches with Machine Learning.
 
 This repository contains the source code for our work on Encrypted Traffic Classification (ETC) in programmable switches with P4 and Machine Learning, appearing in the Proceedings of IEEE/IFIP NOMS 2024, 6–10 May 2024, Seoul, South Korea.
 
